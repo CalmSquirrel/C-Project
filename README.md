@@ -3,3 +3,4 @@ A quick single player game, coded in C with ncurses, based off of Galaga and oth
 
 Create by: Anfernee Zhao and John Lee
 # C-Project
+# C-Project
